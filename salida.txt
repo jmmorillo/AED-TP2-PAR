@@ -1,0 +1,23 @@
+
+                -- PAR O IMPAR --
+
+
+        Ingrese un numero entero: 12
+
+        El numero ingresado es par.
+
+--------------------------------
+Process exited after 9.414 seconds with return value 0
+Presione una tecla para continuar . . .
+
+
+                -- PAR O IMPAR --
+
+
+        Ingrese un numero entero: 15
+
+        El numero ingresado es impar.
+
+--------------------------------
+Process exited after 2.933 seconds with return value 0
+Presione una tecla para continuar . . .
