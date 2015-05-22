@@ -1,3 +1,8 @@
+/* Dado un numero, el programa nos dice si este es par.
+/  Juan Manuel Morillo
+/ 22-04-2015
+*/
+
 #include <iostream>
 
 using namespace std;
